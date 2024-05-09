@@ -1,7 +1,7 @@
 # Entrega do Projeto para o Curso "Criando Artigos Técnicos com ChatGPT e Lexica.art"
 Esse Curso é parte do Bootcamp Santander 2024 - Fundamentos de IA para Devs: realizado por Santander Open Academy e DIO (Digital Innovation Online)
 
-O artigo está publicado na plataforma da Dio [ https://web.dio.me/articles/angular-e-o-reuso-de-codigo-o-papel-das-diretivas ]
+O artigo está publicado na plataforma da Dio [ https://www.dio.me/articles/angular-e-o-reuso-de-codigo-o-papel-das-diretivas?q=204 ]
 
 Eis o link da conversa que gerou o conteúdo: [ https://g.co/gemini/share/b6e1361ef4cb ]
 
